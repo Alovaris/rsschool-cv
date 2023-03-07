@@ -13,8 +13,8 @@ Telegram: @Alovaris
 ### Personal information:
 
 He graduated from the university in 2020 with a degree in system software engineer. 
-For three years he did not work in his specialty. I get off easily, I can work in a team, I consider myself purposeful.
-I want to become a front-end developer, it's interesting and fun for me.
+For three years he did not work in his specialty.I want to become a front-end developer, it's interesting and fun for me.
+I get off easily, I can work in a team, I consider myself purposeful.
 
 ### Skills and Proficiency:
 
